@@ -37,5 +37,3 @@ Available Options:
   error: Fail the action with an error message
   ignore: Do not output any warnings or errors, the action does not fail
 
-    if-no-files-found:
-    retention-days:
