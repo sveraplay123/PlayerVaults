@@ -28,9 +28,5 @@ jobs:
       uses: actions/upload-artifact@v3.1.0
       with:
         name: PlayerVaults
-        path: 
-      Available Options:
-        warn: Output a warning but do not fail the action
-        error: Fail the action with an error message
-        ignore: Do not output any warnings or errors, the action does not fail
+        path: /
 
